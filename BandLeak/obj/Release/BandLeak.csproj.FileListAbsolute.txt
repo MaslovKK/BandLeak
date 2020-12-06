@@ -1,0 +1,7 @@
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\bin\Release\BandLeak.exe.config
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\bin\Release\BandLeak.exe
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\bin\Release\BandLeak.pdb
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\obj\Release\BandLeak.csprojAssemblyReference.cache
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\obj\Release\BandLeak.csproj.CoreCompileInputs.cache
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\obj\Release\BandLeak.exe
+C:\Users\MaslovKK\source\repos\BandLeak\BandLeak\obj\Release\BandLeak.pdb
